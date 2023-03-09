@@ -1,0 +1,23 @@
+body{
+	background-color: rgb(255,15,255);
+}
+.box{
+	margin-top: 20%;
+	margin-left: 20%;
+	height: 30vh;
+	width: 60%;
+	background-color: white;
+}
+#red,#green,#blue{
+	width: 97%;
+	margin-top: 10px;
+}
+input[type="range"]{
+	margin-top: 10px;
+}
+#rgb_value{
+	margin-left: 40%;
+	text-align: center;
+	padding: 0.2rem;
+	font-size: 15px;
+}
